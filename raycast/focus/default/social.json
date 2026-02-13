@@ -1,0 +1,30 @@
+[
+  {
+    "apps" : [
+      "com.atebits.Tweetie2"
+    ],
+    "iconName" : "two-people-16",
+    "title" : "Social",
+    "websites" : [
+      "facebook.com",
+      "instagram.com",
+      "linkedin.com",
+      "mastodon.social",
+      "messenger.com",
+      "myspace.com",
+      "pinterest.com",
+      "quora.com",
+      "reddit.com",
+      "threads.net",
+      "tiktok.com",
+      "tumblr.com",
+      "viber.com",
+      "vimeo.com",
+      "web.telegram.org",
+      "x.com",
+      "mobile.x.com",
+      "twitter.com",
+      "bsky.app"
+    ]
+  }
+]

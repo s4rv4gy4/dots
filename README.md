@@ -1,2 +1,1 @@
-# dot
 🏡 dotfiles, and more

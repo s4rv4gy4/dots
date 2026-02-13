@@ -1,0 +1,41 @@
+[
+  {
+    "apps" : [
+      "com.apple.MobileSMS",
+      "net.whatsapp.WhatsApp",
+      "org.whispersystems.signal-desktop",
+      "ru.keepcoder.Telegram",
+      "com.hnc.Discord",
+      "com.facebook.archon",
+      "com.tencent.xinWeChat",
+      "jp.naver.line.mac",
+      "com.microsoft.teams",
+      "com.tinyspeck.slackmacgap",
+      "com.viber.osx",
+      "com.skype.skype"
+    ],
+    "iconName" : "speech-bubble-16",
+    "title" : "Messaging",
+    "websites" : [
+      "web.whatsapp.com",
+      "web.telegram.org",
+      "messenger.com",
+      "discord.com",
+      "slack.com",
+      "signal.org",
+      "wechat.com",
+      "skype.com",
+      "viber.com",
+      "line.me",
+      "chat.google.com",
+      "teams.microsoft.com",
+      "zoom.us",
+      "icq.com",
+      "wire.com",
+      "element.io",
+      "threema.ch",
+      "chatwork.com",
+      "kik.com"
+    ]
+  }
+]

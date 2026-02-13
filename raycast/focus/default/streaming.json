@@ -1,0 +1,43 @@
+[
+  {
+    "apps" : [
+      "com.apple.TV",
+      "com.amazon.aiv.AIVApp",
+      "com.firecore.infuse",
+      "com.plexapp.plexmediaserver"
+    ],
+    "iconName" : "play-16",
+    "title" : "Streaming",
+    "websites" : [
+      "canalplus.com",
+      "crunchyroll.com",
+      "dazn.com",
+      "discoveryplus.com",
+      "disneyplus.com",
+      "hulu.com",
+      "iflix.com",
+      "iqiyi.com",
+      "max.com",
+      "mgmplus.com",
+      "mubi.com",
+      "netflix.com",
+      "ocs.com",
+      "paramountplus.com",
+      "peacocktv.com",
+      "plus.espn.com",
+      "plus.rtl.com",
+      "primevideo.com",
+      "rakuten.tv",
+      "skyshowtime.com",
+      "sonyliv.com",
+      "starz.com",
+      "tv.apple.com",
+      "v.qq.com",
+      "viaplay.com",
+      "wetv.vip",
+      "youku.com",
+      "youtube.com",
+      "zee5.com"
+    ]
+  }
+]

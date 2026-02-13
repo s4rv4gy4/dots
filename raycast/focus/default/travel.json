@@ -1,0 +1,52 @@
+[
+  {
+    "apps" : [
+
+    ],
+    "iconName" : "airplane-16",
+    "title" : "Travel",
+    "websites" : [
+      "booking.com",
+      "airbnb.com",
+      "expedia.com",
+      "kayak.com",
+      "tripadvisor.com",
+      "hotels.com",
+      "skyscanner.com",
+      "priceline.com",
+      "vrbo.com",
+      "hotwire.com",
+      "agoda.com",
+      "britishairways.com",
+      "easyjet.com",
+      "ryanair.com",
+      "lufthansa.com",
+      "emirates.com",
+      "trainline.com",
+      "nationalexpress.com",
+      "hostelworld.com",
+      "viator.com",
+      "rentalcars.com",
+      "hertz.com",
+      "avis.com",
+      "enterprise.com",
+      "marriott.com",
+      "hilton.com",
+      "ihg.com",
+      "accor.com",
+      "travelocity.com",
+      "orbitz.com",
+      "lastminute.com",
+      "holidaypirates.com",
+      "secretflying.com",
+      "thetrainline.com",
+      "eurostar.com",
+      "norwegian.com",
+      "klm.com",
+      "airfrance.com",
+      "cruisecritic.com",
+      "royalcaribbean.com",
+      "carnival.com"
+    ]
+  }
+]

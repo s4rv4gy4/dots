@@ -1,0 +1,11 @@
+{
+  "prettier": {
+    "allowed": false
+  },
+  "inlay_hints": {
+    "show_background": true,
+    "enabled": true
+  },
+  "soft_wrap": "editor_width",
+  "project_name": "dot"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "apps" : [
+      "com.valvesoftware.steam",
+      "com.epicgames.EpicGamesLauncher",
+      "com.ea.mac.eaapp"
+    ],
+    "iconName" : "game-controller-16",
+    "title" : "Gaming",
+    "websites" : [
+      "steampowered.com",
+      "epicgames.com",
+      "gog.com",
+      "origin.com",
+      "ubisoft.com",
+      "battle.net",
+      "riotgames.com",
+      "itch.io",
+      "humblebundle.com",
+      "greenmangaming.com",
+      "gamespot.com",
+      "ign.com",
+      "polygon.com",
+      "kotaku.com",
+      "pcgamer.com",
+      "nintendo.com",
+      "playstation.com",
+      "xbox.com",
+      "twitch.tv"
+    ]
+  }
+]
