@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title play cigarettes after sex
+# @raycast.title play the blaze
 # @raycast.mode silent
 
 # Optional parameters:
@@ -10,7 +10,7 @@
 # @raycast.packageName spotify
 
 # Documentation:
-# @raycast.description play cigarettes after sex playlist on spotify
+# @raycast.description play the blaze playlist on spotify
 # @raycast.author s4rv4gy4
 # @raycast.authorURL https://github.com/s4rv4gy4
 
@@ -23,7 +23,7 @@ tell application "Spotify"
 	# turn off shuffling
     set shuffling to false
 	# set your playlist uri
-    play track "spotify:playlist:37i9dQZF1DZ06evO12tsHe"
+    play track "spotify:playlist:37i9dQZF1DZ06evO0UzLaq"
 end tell
 
 # a small hack to hide spotify
@@ -33,4 +33,4 @@ tell application "System Events"
 end tell
 
 # log, and alert about execution
-log "playing, cigarettes after sex! playlist."
+log "playing, the blaze! playlist."

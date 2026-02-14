@@ -1,6 +1,6 @@
 # ~/git/github/.gitconfig
 
-# always use gpg as ssh format
+# gpg as ssh format
 [gpg]
     format = ssh
 

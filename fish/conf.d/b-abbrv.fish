@@ -20,7 +20,8 @@ if status is-interactive
     # homebrew abbr.
     abbr --add "bl" "brew list --versions --verbose"
     abbr --add "bi" --set-cursor "brew install % --ask --verbose"
-    
+
     # git abbr.
     abbr --add "gc:dot" "git clone git@github.com:s4rv4gy4/dot.git"
+    abbr --add "gc:dumps" "git clone git@github.com:s4rv4gy4/dumps.git"
 end

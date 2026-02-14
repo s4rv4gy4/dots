@@ -2,7 +2,7 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title play: vibin 
+# @raycast.title play vibin
 # @raycast.mode silent
 
 # Optional parameters:
@@ -27,7 +27,7 @@ tell application "Spotify"
 end tell
 
 # a small hack to hide spotify
-# after successfuyl execution
+# after successful execution
 tell application "System Events"
 	set visible of process "Spotify" to false
 end tell
