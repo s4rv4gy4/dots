@@ -17,4 +17,4 @@
 curl --fail --silent --show-error --location --request GET \
     https://api.todoist.com/api/v1/tasks/filter?query=today \
     --header "Authorization: Bearer $(op read op://main/todoist/token)" \
-    | jq -r '.results.[] | "[\(.priority)] \(.due.string) ?? \(.content)"'
+    | jq --raw-output '.results.[] | "[\(.priority)] \(.due.string) ?? \(.content)"'

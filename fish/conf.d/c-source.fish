@@ -5,8 +5,8 @@
 
 if status is-interactive
     # kiro ide require this in fish
-    # string match -q "$TERM_PROGRAM" "kiro" and . (kiro --locate-shell-integration-path fish)
-    
+    # string match --quiet "$TERM_PROGRAM" "kiro" and . (kiro --locate-shell-integration-path fish)
+
     # source zoxide on first
     zoxide init fish | source
 end

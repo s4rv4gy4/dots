@@ -6,16 +6,16 @@
 if status is-interactive
     # development abbr.
     abbr --add "v" "nvim"
+    abbr --add "n" "nvim"
 
     # utils abbr.
-    abbr --add "rmf" "rm -rfv"
-    abbr --add "rmi" "rm -rfi"
+    abbr --add "rmf" "rm --recursive --force --verbose"
+    abbr --add "rmi" "rm --recursive --force --interactive"
     abbr --add "hic" "history clear"
 
     # zoxide abbr.
     abbr --add "ze" "zoxide edit"
     abbr --add "zq" "zoxide query --list --score"
-    abbr --add "zl" --set-cursor "z % ; ls -lAhtr"
 
     # homebrew abbr.
     abbr --add "bl" "brew list --versions --verbose"
