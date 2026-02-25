@@ -1,7 +1,0 @@
-[
-  {
-    "keyword" : "!gc:dot",
-    "name" : "git: clone dot repo",
-    "text" : "git clone git@github.com:s4rv4gy4\/dot.git"
-  }
-]

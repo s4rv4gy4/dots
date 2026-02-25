@@ -6,7 +6,7 @@
 # @raycast.mode fullOutput
 
 # Optional parameters:
-# @raycast.icon todoist.png
+# @raycast.icon images/todoist.png
 # @raycast.packageName todoist
 
 # Documentation:

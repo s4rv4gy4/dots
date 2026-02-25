@@ -2,15 +2,15 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title play dancin
+# @raycast.title play liked
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon spotify.png
+# @raycast.icon images/spotify.png
 # @raycast.packageName spotify
 
 # Documentation:
-# @raycast.description play dancin playlist on spotify
+# @raycast.description play liked songs on spotify
 # @raycast.author s4rv4gy4
 # @raycast.authorURL https://github.com/s4rv4gy4
 
@@ -22,8 +22,8 @@ tell application "Spotify"
 	set sound volume to 75
 	# turn off shuffling
 	set shuffling to false
-	# set your playlist uri
-	play track "spotify:playlist:7zLfAhOIY3tBg1RTyNgQ4I"
+	# set your username uri
+	play track "spotify:user:31kymx7zaanvvsbik7aecl53vgom:collection"
 end tell
 
 # a small hack to hide spotify
@@ -33,4 +33,4 @@ tell application "System Events"
 end tell
 
 # log, and alert about execution
-log "playing, dancin! playlist."
+log "playing, liked songs!"

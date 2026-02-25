@@ -2,15 +2,15 @@
 
 # Required parameters:
 # @raycast.schemaVersion 1
-# @raycast.title play vibin
+# @raycast.title play dancin
 # @raycast.mode silent
 
 # Optional parameters:
-# @raycast.icon spotify.png
+# @raycast.icon images/spotify.png
 # @raycast.packageName spotify
 
 # Documentation:
-# @raycast.description play vibin playlist on spotify
+# @raycast.description play dancin playlist on spotify
 # @raycast.author s4rv4gy4
 # @raycast.authorURL https://github.com/s4rv4gy4
 
@@ -23,7 +23,7 @@ tell application "Spotify"
 	# turn off shuffling
 	set shuffling to false
 	# set your playlist uri
-	play track "spotify:playlist:51gj1QuutpHw9ampBcn4a6"
+	play track "spotify:playlist:7zLfAhOIY3tBg1RTyNgQ4I"
 end tell
 
 # a small hack to hide spotify
@@ -33,4 +33,4 @@ tell application "System Events"
 end tell
 
 # log, and alert about execution
-log "playing, vibin! playlist."
+log "playing, dancin! playlist."
