@@ -3,7 +3,7 @@
 # Global Config
 Host *
   StrictHostKeyChecking no
-  ServerAliveInterval 300 
+  ServerAliveInterval 300
   IdentityAgent ~/.1Password/agent.sock
 
 # Github Config
