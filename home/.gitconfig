@@ -1,6 +1,0 @@
-# ~/.gitconfig
-
-# global config
-# working directory for projects
-[includeif "gitdir:~/git/github/"]
-    path = ~/git/github/.gitconfig
