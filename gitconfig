@@ -1,0 +1,6 @@
+# ~/.gitconfig
+
+# global config
+# working dir for projects
+[includeif "gitdir:~/git/"]
+    path = ~/git/.gitconfig
